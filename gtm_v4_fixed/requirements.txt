@@ -1,0 +1,23 @@
+openai>=1.40
+anthropic>=0.40
+pydantic>=2
+httpx
+requests
+python-dotenv
+langgraph
+langchain-core
+reportlab
+python-docx
+ddgs
+# --- RAG (internal knowledge base) ---
+langchain
+langchain-openai
+langchain-community
+faiss-cpu
+pymupdf
+rank_bm25
+tiktoken
+numpy
+rich
+langsmith
+python-pptx
